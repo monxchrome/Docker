@@ -1,0 +1,29 @@
+.Father {
+    margin-left: 100px;
+    width: 400px;
+    height: 200px;
+    background: #ffffff;
+    box-shadow: 0 0 98px 0 rgba(122,122,122,0.75);
+    -webkit-box-shadow: 0 0 98px 0 rgba(122,122,122,0.75);
+    -moz-box-shadow: 0 0 98px 0 rgba(122,122,122,0.75);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.Name {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Surname {
+    margin-left: 20px;
+}
+
+.Username {
+    margin-left: 20px;
+}
+
+.Email {
+    margin-left: 20px;
+}
